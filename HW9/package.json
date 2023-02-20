@@ -1,0 +1,11 @@
+{
+  "name": "lv732_taraspanasyuk",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "indexNode.js",
+  "scripts": {
+    "test": "indexNode"
+  },
+  "author": "taras",
+  "license": "ISC"
+}
